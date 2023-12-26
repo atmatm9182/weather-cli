@@ -12,8 +12,8 @@ weather-cli -help
 Or if you want to build from source:
 
 ```shell
-    git clone https://github.com/atmatm9182/weather-cli
-    cd weather-cli
-    go build 
-    ./weather-cli -help
+git clone https://github.com/atmatm9182/weather-cli
+cd weather-cli
+go build 
+./weather-cli -help
 ```
